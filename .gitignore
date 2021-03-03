@@ -11,6 +11,7 @@
 *.sln.docstates
 
 # 解决方案文件
+*.sln
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
